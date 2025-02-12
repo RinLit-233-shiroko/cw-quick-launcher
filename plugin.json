@@ -1,9 +1,9 @@
 {
-    "name": "Class Widgets 插件模板",
-    "description": "这里是简介，用简短的语言描述插件的功能。",
-    "version": "1.0.0",
+    "name": "快捷启动器",
+    "description": "在 Class Widgets 中快速启动软件/文件夹",
+    "version": "0.0.0",
     "plugin_ver": 1,
-    "author": "你的名字",
+    "author": "Rin",
     "settings": true,
 
     "url": "https://github.com/{repo-owner}/{repo}",
